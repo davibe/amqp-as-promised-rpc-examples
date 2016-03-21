@@ -1,0 +1,17 @@
+{
+  "name": "amqp-examples",
+  "version": "1.0.0",
+  "description": "Notes",
+  "main": "index.js",
+  "dependencies": {
+    "amqp-as-promised": "https://github.com/ttab/amqp-as-promised.git",
+    "q-extended": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
